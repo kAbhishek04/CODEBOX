@@ -7,8 +7,7 @@ Code Examples: Access a library of code examples and snippets to aid comprehensi
 Project Ideas: Explore project ideas and coding challenges to apply your skills in real-world scenarios.
 Personalized Learning: Receive personalized feedback and guidance powered by GenAI's natural language processing capabilities.
 Seamless Integration: Integrate seamlessly into your learning routine with a user-friendly interface and intuitive navigation.
-Installation
-To run CodeBox locally, follow these steps:
+------------------------------------------------------------------------------------------------------------------------------
 Use through this link:https://partyrock.aws/u/Itsavi01/MWW6yjgIT/CodeBox%3A-An-AI-Powered-Learning-Assistant
 
 Technologies Used
