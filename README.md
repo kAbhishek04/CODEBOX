@@ -8,6 +8,7 @@ Project Ideas: Explore project ideas and coding challenges to apply your skills 
 Personalized Learning: Receive personalized feedback and guidance powered by GenAI's natural language processing capabilities.
 Seamless Integration: Integrate seamlessly into your learning routine with a user-friendly interface and intuitive navigation.
 ------------------------------------------------------------------------------------------------------------------------------
+![Image Description](./LLM.png)
 Use through this link:https://partyrock.aws/u/Itsavi01/MWW6yjgIT/CodeBox%3A-An-AI-Powered-Learning-Assistant
 
 Technologies Used
